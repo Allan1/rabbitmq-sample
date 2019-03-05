@@ -1,4 +1,4 @@
-# RabbitMQ
+# RabbitMQ Sample
 
 Practicing some RabbitMQ concepts following their getting started Javascript [tutorial](https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html) 
 
